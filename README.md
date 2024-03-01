@@ -6,7 +6,6 @@
             text-align: center;
             color: red;
       }
-       
       p.large {
           font-sie: 300%;
       }
